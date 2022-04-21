@@ -10,7 +10,7 @@
 
 专注于提升课堂的趣味性。
 
-[English](./README.md) | **简体中文**
+[English](./profile/README.md) | **简体中文**
 
 ### 有用的链接
 

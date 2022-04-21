@@ -10,7 +10,7 @@
 
 Focus on improving the interest of the classroom.
 
-**English** | [简体中文](./README.zh-Hans.md)
+**English** | [简体中文](./profile/README.zh-Hans.md)
 
 ### Useful links
 
