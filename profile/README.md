@@ -5,7 +5,7 @@
 <h1 align="center">- Class Tools Develop Team -</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/People-11-blue?logo=microsoftteams">
+<img src="https://img.shields.io/badge/People-10-blue?logo=microsoftteams">
 </p>
 
 Focus on improving the interest of the classroom.

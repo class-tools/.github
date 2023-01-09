@@ -5,7 +5,7 @@
 <h1 align="center">- 课堂工具开发团队 -</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/%E6%88%90%E5%91%98-11-blue?logo=microsoftteams">
+<img src="https://img.shields.io/badge/%E6%88%90%E5%91%98-10-blue?logo=microsoftteams">
 </p>
 
 专注于提升课堂的趣味性。
